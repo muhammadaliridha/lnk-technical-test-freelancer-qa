@@ -1,6 +1,6 @@
-# Technical Test QA - PT LNK
+# Technical Test Freelance QA - PT LNK
 
-This repository contains test cases and automation scripts for the Technical Test QA assignment at PT LNK.
+This repository contains test cases and automation scripts for the Technical Test Freelance QA at PT LNK.
 
 ## Description
 This project aims to validate the functionality of a given online form using automated tests. It includes both test cases and Cypress automation scripts.
